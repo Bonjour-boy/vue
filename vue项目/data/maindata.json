@@ -1,0 +1,1039 @@
+{
+    "data": {
+        "tabBar": [{
+            "id": "1039463340413253271",
+            "type": 0,
+            "link": "https://m.yaya.cn/",
+            "title": "首页",
+            "price": 0,
+            "imagePath": ["https://img2.yaya.cn/newstatic/771/31faba4eb9d9f6.png", "https://img2.yaya.cn/newstatic/917/70e1ebf9437eb5.png"],
+            "clientType": 63
+        }, {
+            "id": "1039463340413253272",
+            "type": 0,
+            "link": "https://m.yaya.cn/category",
+            "title": "分类",
+            "price": 0,
+            "imagePath": ["https://img2.yaya.cn/newstatic/770/364f6b7e419f4a.png", "https://img2.yaya.cn/newstatic/918/70e1ee7a0ee243.png"],
+            "clientType": 63
+        }, {
+            "id": "1039463340413253273",
+            "type": 0,
+            "link": "https://m.yaya.cn/user/mymsg.aspx",
+            "title": "消息",
+            "price": 0,
+            "imagePath": ["https://img2.yaya.cn/newstatic/766/31fabea5dde74a.png", "https://img2.yaya.cn/newstatic/912/70e1fa7ef7bf65.png"],
+            "clientType": 63
+        }, {
+            "id": "1039463340413253274",
+            "type": 0,
+            "link": "https://m.yaya.cn/trade/cart",
+            "title": "购物车",
+            "price": 0,
+            "imagePath": ["https://img2.yaya.cn/newstatic/768/31fac0693aab8a.png", "https://img2.yaya.cn/newstatic/918/70e1f2a1efb2a4.png"],
+            "clientType": 63
+        }, {
+            "id": "1039463340413253275",
+            "type": 0,
+            "link": "https://m.yaya.cn/member",
+            "title": "我的",
+            "price": 0,
+            "imagePath": ["https://img2.yaya.cn/newstatic/770/31fac2759665d7.png", "https://img2.yaya.cn/newstatic/915/70e1f429840065.png"],
+            "clientType": 63
+        }],
+        "container": {
+            "labelId": "1039463340404862978",
+            "floor": [{
+                "id": "1039463340404863158",
+                "type": 1,
+                "title": "首焦",
+                "floorStyleId": "0",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413254012",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/79120.html?from=banner",
+                    "title": "vivo z5",
+                    "description": "ent/3722.html?from=banner?from=banner",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/ffba186139037b.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254011",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/event/3964.html?from=banner",
+                    "title": "华为苹果品牌月",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1378/010098787e7a5ff9.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254013",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/78943.html?from=banner",
+                    "title": "mate 20X 5G",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/fd6861609b25c2.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254015",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/event/3969.html?from=banner",
+                    "title": "暑假",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1383/ffb4e666cb16a8.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254016",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/78887.html?from=banner",
+                    "title": "nova5i Pro",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/0100523c783eb572.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254014",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/78919.html?from=banner",
+                    "title": "荣耀9X",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/0100a6bddafe46e1.jpg",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863178",
+                "type": 2,
+                "title": "服务图标",
+                "floorStyleId": "7",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413254071",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/?tabs=3",
+                    "title": "丫丫快修",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1378/fb752c4ffee547.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254072",
+                    "type": 3,
+                    "link": "https://huishou.yaya.cn/mobile/secondHand/index",
+                    "title": "二手良品",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/fb75306ed5a9d6.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254073",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/vip",
+                    "title": "会员俱乐部",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1378/fb753852bf1375.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254074",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/event/2943.html",
+                    "title": "领券中心",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1383/fb7540c4e04586.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254075",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/member/more",
+                    "title": "发现更多",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1380/fb7549f60dfef6.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1122475927009468418",
+                "type": 2,
+                "title": "活动入口3",
+                "floorStyleId": "4",
+                "hasInterval": false,
+                "level": "0,1,2,3,5,6,-1",
+                "content": [{
+                    "id": "1122686950367985665",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/68436.html",
+                    "title": "左",
+                    "description": "xr",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/f5a30ec203a36f.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1122687172368302082",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/?tabs=3",
+                    "title": "右",
+                    "description": "维修",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/f5a332186ab4fe.jpg",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863156",
+                "type": 12,
+                "title": "头条",
+                "floorStyleId": "0",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": 14074,
+                    "title": "“内外兼修”的旗舰新机 荣耀20发布 99元预订",
+                    "url": "https://m.yaya.cn/?tabs=4",
+                    "picture": "https://img2.yaya.cn//pic/edt/news/20190523/20190523171747_1419.jpg"
+                }, {
+                    "id": 14045,
+                    "title": "【五重优惠 一步到位】全场手机79折起 换电池88元起",
+                    "url": "https://m.yaya.cn/?tabs=4",
+                    "picture": "https://img2.yaya.cn//pic/edt/news/20190426/20190426160537_1513.jpg"
+                }, {
+                    "id": 13975,
+                    "title": "折叠手机时代 三星折叠屏惊艳上市",
+                    "url": "https://m.yaya.cn/?tabs=4",
+                    "picture": "https://img2.yaya.cn//pic/edt/news/20190305/20190305150605_9460.jpg"
+                }, {
+                    "id": 13970,
+                    "title": "三星S10系列国行版开启预定：“安卓机皇”4999元起",
+                    "url": "https://m.yaya.cn/?tabs=4",
+                    "picture": "https://img2.yaya.cn//pic/edt/news/20190301/20190301160529_7215.png"
+                }, {
+                    "id": 13968,
+                    "title": "【新品上市】小米9这些新拍照功能你知道吗？",
+                    "url": "https://m.yaya.cn/?tabs=4",
+                    "picture": "https://img2.yaya.cn//pic/edt/news/20190228/20190228150834_9294.png"
+                }]
+            }, {
+                "id": "1039463340404863173",
+                "type": 2,
+                "title": "新品推荐1",
+                "floorStyleId": "6",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413254046",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/75359.html",
+                    "title": "华为P30",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/e325a5a07a4d6f.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254047",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/58206.html",
+                    "title": "iPhone X",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1378/ceae9c4d05de0d.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413254048",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/75381.html",
+                    "title": "华为Watch GT",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1380/e32e1e28aaf808.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863143",
+                "type": 2,
+                "title": "新品推荐2",
+                "floorStyleId": "1",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413253935",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/77239.html",
+                    "title": "门铃",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/e32f7f43be5abd.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253936",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/76477.html",
+                    "title": "掌上充电宝",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1383/e32e405671481e.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039481191249911809",
+                "type": 2,
+                "title": "新品推荐3",
+                "floorStyleId": "4",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039688188134072322",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/77329.html",
+                    "title": "荣耀20",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/ee52250ef5bd05.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039688317431881729",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/77495.html",
+                    "title": "红米 k20 pro",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1381/e325c50faa6c5c.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863106",
+                "type": 2,
+                "title": "标题-实惠精选",
+                "floorStyleId": "8",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413253834",
+                    "type": 3,
+                    "link": "",
+                    "title": "为你优选",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/cfb1bd6d8d5621.jpg",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863083",
+                "type": 11,
+                "title": "为你优选商品",
+                "floorStyleId": "0",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": []
+            }, {
+                "id": "1039463340404863101",
+                "type": 2,
+                "title": "标题-手机精品",
+                "floorStyleId": "8",
+                "hasInterval": false,
+                "level": "0,-1,1,2,3,5,6",
+                "content": [{
+                    "id": "1039463340413253794",
+                    "type": 3,
+                    "link": "",
+                    "title": "手机精品",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1379/cfb1ce1f1bd4f9.jpg",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863144",
+                "type": 2,
+                "title": "手机精品1",
+                "floorStyleId": "4",
+                "hasInterval": false,
+                "level": "-1,0,1,2,3,5,6",
+                "content": [{
+                    "id": "1039463340413253937",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/68442.html",
+                    "title": "iPhone XR",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1381/e325d5413d7efb.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253938",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/77187.html",
+                    "title": "一加7 pro",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/e325de76ecacbc.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863145",
+                "type": 2,
+                "title": "手机精品2",
+                "floorStyleId": "4",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,6,5",
+                "content": [{
+                    "id": "1039463340413253939",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/70946.html",
+                    "title": "华为mate20",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1379/ee523eef2103ab.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253940",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/77775.html",
+                    "title": "华为 nova 5 Pro",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1383/fbef711d40d37e.jpg",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863146",
+                "type": 2,
+                "title": "手机精品3",
+                "floorStyleId": "1",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413253941",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/78433.html",
+                    "title": "小米 CC9",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1380/fbefd618b3e393.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253942",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/75111.html",
+                    "title": "vivo iQOO",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/ceaf1448f46d72.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863103",
+                "type": 2,
+                "title": "标题-乐享生活",
+                "floorStyleId": "8",
+                "hasInterval": false,
+                "level": "0,-1,1,2,3,5,6",
+                "content": [{
+                    "id": "1039463340413253795",
+                    "type": 3,
+                    "link": "",
+                    "title": "乐享生活",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1378/cfb1d7805ec385.jpg",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863147",
+                "type": 2,
+                "title": "乐享生活1",
+                "floorStyleId": "4",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413253943",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/76452.html",
+                    "title": "magic book",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/e32e4c3b710703.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253944",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/75146.html",
+                    "title": "mini 2019",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/e32e79c91507fd.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863148",
+                "type": 2,
+                "title": "乐享生活2",
+                "floorStyleId": "4",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413253945",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/75050.html",
+                    "title": "华为手环3Pro",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1382/ceb0f2dc5ce312.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253946",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/73144.html",
+                    "title": "罗曼 T7电动牙刷",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1380/ceaf3f0a72c974.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863149",
+                "type": 2,
+                "title": "乐享生活3",
+                "floorStyleId": "1",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413253947",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/77354.html",
+                    "title": "空气净化器",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1383/e32ee21451d42e.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253948",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/77265.html",
+                    "title": "风扇",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1381/e32ee9da295ba0.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863150",
+                "type": 2,
+                "title": "标题-趣购频道",
+                "floorStyleId": "8",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413253949",
+                    "type": 3,
+                    "link": "",
+                    "title": "趣购频道",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1380/cfb1e008d522a7.jpg",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863151",
+                "type": 2,
+                "title": "趣购频道1",
+                "floorStyleId": "5",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413253950",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/77264.html",
+                    "title": "风扇",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/ea4bbacdaaa6ef.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253951",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/75028.html",
+                    "title": "雷柏V25S",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/cf1ea3c16b7ade.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253952",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/72719.html",
+                    "title": "抖音网红猪小屁",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1381/cf1d2e1bc13c4a.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863152",
+                "type": 2,
+                "title": "趣购频道2",
+                "floorStyleId": "1",
+                "hasInterval": false,
+                "level": "0,1,2,3,-1,5,6",
+                "content": [{
+                    "id": "1039463340413253953",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/75771.html",
+                    "title": "华为照片打印机",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1381/e32e4735cfe6f7.png",
+                    "clientType": 0
+
+                }, {
+                    "id": "1039463340413253954",
+                    "type": 3,
+                    "link": "https://m.yaya.cn/product/76630.html",
+                    "title": "苹果MFI认证快充",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/e32f065e04e8bb.png",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863104",
+                "type": 2,
+                "title": "标题-猜你喜欢",
+                "floorStyleId": "8",
+                "hasInterval": true,
+                "level": "-1,3,2,1,0,5,6",
+                "content": [{
+                    "id": "1039463340413253797",
+                    "type": 3,
+                    "link": "",
+                    "title": "发现好货",
+
+                    "price": 0,
+                    "imagePath": "https://img2.yaya.cn/newstatic/1377/cfb1e638aa0a86.jpg",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": "1039463340404863065",
+                "type": 3,
+                "title": "瀑布流楼层",
+                "floorStyleId": "0",
+                "hasInterval": false,
+                "level": "0,1,2,3,5,6,-1",
+                "content": [{
+                    "id": "38664",
+                    "type": 1,
+                    "link": "https://m.yaya.cn/product/75193.html",
+                    "title": "vivo X27 全网通版",
+                    "sellingPoint": "美 更进一步",
+                    "price": "2798",
+                    "ppid": "75193",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190618233851781.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "35744",
+                    "type": 1,
+                    "link": "https://m.yaya.cn/product/68397.html",
+                    "title": "iPhone XS Max 全网通版",
+                    "sellingPoint": "超视网膜显示屏",
+                    "price": "7399",
+                    "ppid": "68397",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20181207094157912.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": "31272",
+                    "type": 1,
+                    "link": "https://m.yaya.cn/product/58815.html",
+                    "title": "爱沃可 12000mAh 移动电源",
+                    "sellingPoint": "内置四线 快充输出",
+                    "price": "259",
+                    "ppid": "58815",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190429145833993.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "35741",
+                    "type": 1,
+                    "link": "https://m.yaya.cn/product/68396.html",
+                    "title": "iPhone XR全网通版",
+                    "sellingPoint": "超视网膜显示屏",
+                    "price": "4820",
+                    "ppid": "68396",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20181207094922302.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104132_4573.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": "38666",
+                    "type": 1,
+                    "link": "https://m.yaya.cn/product/75045.html",
+                    "title": "华为 nova 4e 全网通版",
+                    "sellingPoint": "超广角AI三摄",
+                    "price": "1799",
+                    "ppid": "75045",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190618234241821.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "38575",
+                    "type": 1,
+                    "link": "https://m.yaya.cn/product/74525.html",
+                    "title": "优胜仕 苹果听歌充电二合一 转接器",
+                    "sellingPoint": "功能实用 方便实用",
+                    "price": "59",
+                    "ppid": "74525",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190428101602619.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104132_4573.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": "38030",
+                    "type": 1,
+                    "link": "https://m.yaya.cn/product/72979.html",
+                    "title": "小鸟蓝牙耳机",
+                    "sellingPoint": "优质动圈出众音质",
+                    "price": "1498",
+                    "ppid": "72979",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/2018121810492444.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": "35435",
+                    "type": 1,
+                    "link": "https://m.yaya.cn/product/67692.html",
+                    "title": "漫威正版超级英雄摇头公仔 车载饰品",
+                    "sellingPoint": "弹簧人车载摆件",
+                    "price": "58",
+                    "ppid": "67692",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/2018083010363556.jpg",
+                    "clientType": 0
+
+                }]
+            }, {
+                "id": 0,
+                "type": 3,
+                "title": "瀑布流商品",
+                "floorStyleId": 0,
+                "hasInterval": false,
+                "level": "0,1,2,3,5,6,-1",
+                "content": [{
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/77775.html",
+                    "title": "华为 nova 5 Pro 全网通版",
+                    "sellingPoint": "你比夜色更美",
+                    "price": "2999",
+                    "ppid": "77775",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190614143102844.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/78918.html",
+                    "title": "华为 荣耀9X 全网通版",
+                    "sellingPoint": "快由芯生 超能旗舰",
+                    "price": "1899",
+                    "ppid": "78918",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190723161425614.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/73560.html",
+                    "title": "乐物 10000mAh 移动电源",
+                    "sellingPoint": "双输入 双输出",
+                    "price": "99",
+                    "ppid": "73560",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190429143553617.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/78423.html",
+                    "title": "vivo iQOO Neo 全网通版",
+                    "sellingPoint": "内芯无畏 生而强悍",
+                    "price": "1998",
+                    "ppid": "78423",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190626134815441.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104132_4573.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/77329.html",
+                    "title": "华为 荣耀 20 全网通版",
+                    "sellingPoint": "定格奇幻之美",
+                    "price": "2999",
+                    "ppid": "77329",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190618233212736.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/72109.html",
+                    "title": "华为三脚架自拍杆",
+                    "sellingPoint": "伸缩自如 蓝牙遥控",
+                    "price": "119",
+                    "ppid": "72109",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20181106152616552.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/74082.html",
+                    "title": "小米9 全网通版",
+                    "sellingPoint": "好看又能打",
+                    "price": "2999",
+                    "ppid": "74082",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190308151039450.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/75356.html",
+                    "title": "华为 P30 全网通版",
+                    "sellingPoint": "影像之美",
+                    "price": "4288",
+                    "ppid": "75356",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190618233059899.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/75219.html",
+                    "title": "新款 AirPods 2代 蓝牙耳机",
+                    "sellingPoint": "支持嘿 Siri",
+                    "price": "1230",
+                    "ppid": "75219",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190618234126604.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/75335.html",
+                    "title": "华为 P30 Pro 全网通版",
+                    "sellingPoint": "影像之美",
+                    "price": "5488",
+                    "ppid": "75335",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190618233449900.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/75796.html",
+                    "title": "OPPO Reno 全网通版",
+                    "sellingPoint": "全面屏拍照手机",
+                    "price": "2598",
+                    "ppid": "75796",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190618233832567.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/75385.html",
+                    "title": "华为40W超级快充移动电源",
+                    "sellingPoint": "40W超级快充",
+                    "price": "369",
+                    "ppid": "75385",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190429143651856.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/78901.html",
+                    "title": "vivo iQOO 全网通版",
+                    "sellingPoint": "生而强悍",
+                    "price": "3498",
+                    "ppid": "78901",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190711094810531.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104132_4573.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/74734.html",
+                    "title": "魅族 Note9 全网通版",
+                    "sellingPoint": "吃鸡不卡 拍她更美",
+                    "price": "960",
+                    "ppid": "74734",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/2019030615283289.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104132_4573.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/72131.html",
+                    "title": "Apple Pencil (第二代) 手写笔",
+                    "sellingPoint": "磁力吸附 无线充电",
+                    "price": "969",
+                    "ppid": "72131",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190429164200808.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/68436.html",
+                    "title": "iPhone XR全网通版",
+                    "sellingPoint": "超视网膜显示屏",
+                    "price": "4770",
+                    "ppid": "68436",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190118105405726.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/70946.html",
+                    "title": "华为 Mate 20 全网通版",
+                    "sellingPoint": "后置三摄 麒麟980",
+                    "price": "3199",
+                    "ppid": "70946",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/2019011811001378.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/75014.html",
+                    "title": "苹果内配原装耳机",
+                    "sellingPoint": "内配原装耳机",
+                    "price": "129",
+                    "ppid": "75014",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190429150846103.jpg",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/71255.html",
+                    "title": "华为 Mate 20 Pro 全网通版",
+                    "sellingPoint": "无线充电 3D结构光",
+                    "price": "4499",
+                    "ppid": "71255",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20181212100608942.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }, {
+                    "id": 0,
+                    "type": 0,
+                    "link": "https://m.yaya.cn/product/77188.html",
+                    "title": "一加手机7 Pro 全网通版",
+                    "sellingPoint": "前所未见的屏幕",
+                    "price": "4499",
+                    "ppid": "77188",
+                    "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190618233314811.jpg",
+                    "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+                    "hint": "",
+                    "clientType": 0
+
+                }]
+            }]
+        },
+        "ershouComments": [],
+        "label": [{
+            "id": "1039463340404862978",
+            "title": "推荐",
+            "noCache": false
+        }, {
+            "id": "1039463340404862980",
+            "title": "以旧换新",
+            "noCache": false
+        }, {
+            "id": "1039463340404862983",
+            "title": "手机快修",
+            "noCache": false
+        }, {
+            "id": "1039463340404862981",
+            "title": "头条",
+            "noCache": false
+        }]
+    }
+}

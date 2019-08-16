@@ -1,0 +1,66 @@
+{
+    "optimize": [{
+        "id": 0,
+        "type": 11,
+        "link": "https://m.yaya.cn/product/62229.html?from=wnyx",
+        "title": "公牛 双口 充电器",
+        "sellingPoint": "独立开关 自动断电",
+        "price": "69",
+        "ppid": "62229",
+        "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190423142831417.jpg",
+        "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+        "clientType": 0
+    }, {
+        "id": 0,
+        "type": 11,
+        "link": "https://m.yaya.cn/product/73559.html?from=wnyx",
+        "title": "乐物 10000mAh 移动电源",
+        "sellingPoint": "双输入 双输出",
+        "price": "99",
+        "ppid": "73559",
+        "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190429143624398.jpg",
+        "clientType": 0
+    }, {
+        "id": 0,
+        "type": 11,
+        "link": "https://m.yaya.cn/product/76747.html?from=wnyx",
+        "title": "乐物 360°旋转 指环扣",
+        "sellingPoint": "360°随意旋转",
+        "price": "19",
+        "ppid": "76747",
+        "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190531202256993.jpg",
+        "clientType": 0
+    }, {
+        "id": 0,
+        "type": 11,
+        "link": "https://m.yaya.cn/product/73811.html?from=wnyx",
+        "title": "洛克 手机支架万向球款",
+        "sellingPoint": "重力感应一放即合",
+        "price": "49",
+        "ppid": "73811",
+        "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190118144614955.jpg",
+        "clientType": 0
+    }, {
+        "id": 0,
+        "type": 11,
+        "link": "https://m.yaya.cn/product/62090.html?from=wnyx",
+        "title": "JBL T110BT 运动蓝牙耳机",
+        "sellingPoint": "纯净音质 多彩选择",
+        "price": "299",
+        "ppid": "62090",
+        "imagePath": "https://img2.yaya.cn/pic/product/440x440/20190603185023701.jpg",
+        "promotionTagImg": "https://img2.yaya.cn//pic/edt/ProEva/20170908/20170908104114_2659.png",
+        "hint": "",
+        "clientType": 0
+    }, {
+        "id": 0,
+        "type": 0,
+        "link": "https://m.yaya.cn/member/device?productId=14057&agentId=49",
+        "title": "查看全部",
+        "sellingPoint": "",
+        "price": 0,
+        "ppid": "",
+        "imagePath": "",
+        "clientType": 0
+    }]
+}
